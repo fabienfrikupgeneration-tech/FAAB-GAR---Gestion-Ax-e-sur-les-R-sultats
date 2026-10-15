@@ -1,0 +1,6 @@
+{
+  "name": "FAAB GAR - Gestion Axée sur les Résultats",
+  "description": "Plateforme institutionnelle de Gestion Axée sur les Résultats (GAR), arbres à problèmes et à solutions, cadre de mesure du rendement (CMR), analyse des risques et cadre logique opérationnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
